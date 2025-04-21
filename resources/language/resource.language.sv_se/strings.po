@@ -1,0 +1,114 @@
+# XBMC Media Center Swedish translation file
+# Addon Name: Library Data Provider
+# Addon id: plugin.library.data.provider
+# Addon Provider: BigNoid
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2025-04-21 12:04+0200\n"
+"Last-Translator: Daniel Nylander <github@danielnylander.se>\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgctxt "#32001"
+msgid "Recommended"
+msgstr "Rekommenderade"
+
+msgctxt "#32002"
+msgid "Random Items"
+msgstr "Slumpmässiga poster"
+
+msgctxt "#32003"
+msgid "Set number of items to fetch from the database"
+msgstr "Ange antal poster som ska hämtas från databasen"
+
+msgctxt "#32004"
+msgid "Random Movies"
+msgstr "Slumpmässiga filmer"
+
+msgctxt "#32005"
+msgid "Recent Movies"
+msgstr "Senaste filmerna"
+
+msgctxt "#32006"
+msgid "Recommended Movies"
+msgstr "Rekommenderade filmer"
+
+msgctxt "#32007"
+msgid "Random Episodes"
+msgstr "Slumpmässiga avsnitt"
+
+msgctxt "#32008"
+msgid "Recent Episodes"
+msgstr "Senaste avsnitten"
+
+msgctxt "#32009"
+msgid "Recent Items"
+msgstr "Senaste poster"
+
+msgctxt "#32010"
+msgid "Recommended Episodes"
+msgstr "Rekommenderade avsnitt"
+
+msgctxt "#32011"
+msgid "Only unplayed and unfinished"
+msgstr "Endast ospelade och oavslutade"
+
+msgctxt "#32012"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "#32013"
+msgid "Show plot for unwatched items"
+msgstr "Visa handling för osedda poster"
+
+msgctxt "#32014"
+msgid "* Hidden to prevent spoilers *"
+msgstr "* Dold för att förhindra spoilers *"
+
+msgctxt "#32015"
+msgid "Random Songs"
+msgstr "Slumpmässiga låtar"
+
+msgctxt "#32016"
+msgid "Random Albums"
+msgstr "Slumpmässiga album"
+
+msgctxt "#32017"
+msgid "Recent Albums"
+msgstr "Senaste albumen"
+
+msgctxt "#32018"
+msgid "Recommended Albums"
+msgstr "Rekommenderade album"
+
+msgctxt "#32019"
+msgid "Recent Videos"
+msgstr "Senast filmerna"
+
+msgctxt "#32020"
+msgid "Favourite Episodes"
+msgstr "Favoritavsnitt"
+
+msgctxt "#32021"
+msgid "Include Specials"
+msgstr "Inkludera specialmaterial"
+
+msgctxt "#32022"
+msgid "Random Music Videos"
+msgstr "Slumpmässiga musikvideor"
+
+msgctxt "#32023"
+msgid "Recent Music Videos"
+msgstr "Senaste musikvideor"
+
+msgctxt "#32024"
+msgid "Recommended Music Videos"
+msgstr "Rekommenderade musikvideor"
